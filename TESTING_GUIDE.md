@@ -146,11 +146,7 @@ Expected output:
 
 ## 🐛 Common Issues & Solutions
 
-### Issue 1: "Failed to fetch" on Registration/Login
-**Solution:**
-- Ensure backend server is running on port 5000
-- Check if frontend can access http://localhost:5000/api/health
-
+###
 ### Issue 2: "ORA-00942: table or view does not exist"
 **Solution:**
 - Run schema.sql first
@@ -176,10 +172,8 @@ Expected output:
 4. Generate timetable for all
 5. Verify generation completes in < 30 seconds
 
-### Test Concurrent Users
-1. Open multiple browser tabs
-2. Simultaneously generate timetables
-3. Verify no data corruption or conflicts
+
+
 
 ## 🧪 API Testing with curl
 
