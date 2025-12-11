@@ -1,17 +1,6 @@
 # Quick Start Guide
 
-## Step 1: Database Setup (5 minutes)
-
-1. Open SQL*Plus, SQL Developer, or any Oracle client
-2. Connect to your Oracle database
-3. Run the schema creation:
-   ```sql
-   @database/schema.sql
-   ```
-4. **(Optional)** Load sample data for testing:
-   ```sql
-   @database/sample_data.sql
-   ```
+#
 
 ## Step 2: Backend Setup (2 minutes)
 
@@ -38,7 +27,6 @@
    npm start
    ```
 
-## Step 3: Frontend Setup (2 minutes)
 
 1. Open a new terminal and navigate to frontend:
    ```bash
