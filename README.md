@@ -1,4 +1,4 @@
-# Academic Timetable Generation System
+# Academic Timetable Generation System📚🎒
 
 A complete web-based timetable generation system built with Oracle Database, Node.js, Express, and React.
 
