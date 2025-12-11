@@ -242,9 +242,16 @@ project/
 - Protected routes enforcement
 
 ### ✅ Data Security
+- Parameterized queries prevent SQL injection
+- Input validation on all forms
+- Error messages don't expose sensitive data
+- Transaction isolation
 
 ### ✅ API Security
--
+- CORS configuration
+- Rate limiting (can be added)
+- Request validation
+- Error sanitization
 
 ## 📈 Future Enhancements
 
